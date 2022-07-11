@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.2.0-beta1",
+    "http-server": "^14.1.1"
+  },
+  "name": "maquetap",
+  "version": "1.0.0",
+  "main": "App.js",
+  "scripts": {
+    "start": "http-server -p 8436"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seghostt/Portafolio-maqueta.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Seghostt/Portafolio-maqueta/issues"
+  },
+  "homepage": "https://github.com/Seghostt/Portafolio-maqueta#readme",
+  "description": ""
+}

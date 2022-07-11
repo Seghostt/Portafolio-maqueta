@@ -1,0 +1,72 @@
+#Titulo{
+  text-align: center;
+  color: white;
+}
+
+#Main{
+  background-color: black;
+  margin-left: 8%;
+}
+
+#bar{
+  border: 1px;
+  border-color: white;
+  border-style:solid;
+}
+
+#navBar{
+  margin-top: 100%;
+  color: white;
+}
+#header{
+  margin: 4% 0% 0% 2%;
+  padding: 50px 20px 50px 50px;
+  border: 15px;
+  border-color: white;
+  border-style:solid;
+  font-size: large;
+}
+
+#titulo-H{
+  font-size: 70px;
+  color: white;
+}
+
+#nombre-H{
+  color:gray;
+}
+
+#about{
+  color: white;
+}
+
+#about-me{
+  margin-top: 50px;
+  margin-left: 30px;
+  margin-right: 120px;
+}
+
+#education{
+  background-color: black;
+  margin: 4% 4% 0% 2%;
+  color: white;
+  border: 10px;
+  border-color: white;
+  border-style:solid;
+  margin: 4% 9% 0% 2%;
+  padding: 50px 20px 50px 50px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+#Responsive-Web-Design{
+  margin-top: 40px;
+}
+
+#freeCodeCamp{
+  color:gray;
+}
+#Proyects-T{
+  margin-top: 50px;
+}
